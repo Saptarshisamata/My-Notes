@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Notes</string>
+
+    <string-array name="importance">
+        <item>Low</item>
+        <item>Mid</item>
+        <item>High</item>
+    </string-array>
+</resources>
